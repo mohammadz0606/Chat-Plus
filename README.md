@@ -1,4 +1,4 @@
-# chats
+# Chats Plus
 
 A new Flutter project.
 
