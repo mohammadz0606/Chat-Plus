@@ -1,16 +1,25 @@
 # Chats Plus
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div>
+<h3>
+About the application: 
+</h3>
+<br>
+<ul>
+<li>
+Flutter Framework
+</li>
+<li>
+View all contacts
+</li>
+<li>
+Create conversations
+</li>
+<li>
+Send a picture, video, sound
+</li>
+<li>
+Login by phone number
+</li>
+</ul>
+</div>
